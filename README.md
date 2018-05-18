@@ -19,3 +19,5 @@ This project uses yarn as opposed to NPM, because at the time of this writing, t
 
 To view the application, open the [Expo app](https://expo.io) on your phone (or scan the QR code provided by the terminal),
 or if you are using a simulator, you will be given the option to launch the application in either ios or android simulators.
+
+The project was developed and tested on IOS.
